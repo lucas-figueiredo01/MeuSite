@@ -4,7 +4,7 @@ Site em desenvolvimento criado para praticar **Tailwind CSS** e construção de 
 
 ## Acesse o projeto
 
-**MeuSite:** https://lucas-figueiredo01.github.io/MeuSite/
+[MeuSite Tailwind Css](https://lucas-figueiredo01.github.io/MeuSite/)
 
 ## Prévia
 
