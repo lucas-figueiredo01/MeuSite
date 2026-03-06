@@ -9,7 +9,7 @@ Site em desenvolvimento criado para praticar **Tailwind CSS** e construção de 
 ## Prévia
 
 Preview do MeuSite  
-![Preview do MeuSite](./img/meusite.png)
+![Preview do MeuSite](./img/Previa2-meusite.png)
 
 ## Tecnologias
 
